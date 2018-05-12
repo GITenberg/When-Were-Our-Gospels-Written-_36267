@@ -1,0 +1,32 @@
+_repo: When-Were-Our-Gospels-Written-_36267
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradlaugh, Charles
+    aliases:
+    - Bradlaugh, C. (Charles)
+    - Iconoclast
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '34430'
+    url: http://www.gutenberg.org/2009/agents/34430
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Bradlaugh
+description: ''
+gutenberg_issued: '2011-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Gospels -- Evidences, authority, etc.'
+- !lcsh 'Tischendorf, Constantin von, 1815-1874. Wann wurden unsere Evangelien verfasst?
+  English'
+- !lcc 'BS'
+title: When Were Our Gospels Written?
+url: http://www.gutenberg.org/ebooks/36267
